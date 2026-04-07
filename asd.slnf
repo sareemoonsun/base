@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "Lab_Project\\WindowsForm1 - Lab6\\WindowsForm1.sln",
+    "projects": [
+      "WindowsForm1\\Project_example.csproj"
+    ]
+  }
+}
